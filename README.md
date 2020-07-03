@@ -1,4 +1,4 @@
-# PythonNB_Face-Detection
+# Python Face Detection Jupyter Notebook
 
 Face Detection using Python Notebook,
 
